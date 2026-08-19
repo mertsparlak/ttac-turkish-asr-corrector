@@ -1,0 +1,13 @@
+# Milestone 0 core configuration. Paths are relative to this file.
+seed: 42
+ledger_path: ../runtime/pilot.sqlite3
+artifact_dir: ../artifacts/pilot
+source_root: ../data/common_voice
+engine: whisper_small
+model_repository: openai/whisper-small
+# Replace this placeholder with the immutable model revision before a real run.
+model_revision: PIN_REQUIRED
+normalizer_version: tr-v1
+decoding:
+  language: tr
+  temperature: 0
