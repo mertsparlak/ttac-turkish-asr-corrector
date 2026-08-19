@@ -1,0 +1,122 @@
+sentence_id	split	term_id	term_family	text	reference	suffix	negative_control
+read-dev-001	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-002	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-003	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-004	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-005	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-006	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-007	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-008	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-009	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-010	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-011	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-012	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-013	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-014	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-015	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-016	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-017	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-018	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-019	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-020	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-021	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-022	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-023	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-024	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-025	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-026	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-027	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-028	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-029	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-030	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-031	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-032	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-033	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-034	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-035	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-036	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-037	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-038	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-039	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-040	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-041	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-042	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-043	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-044	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-045	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-046	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-047	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-048	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-049	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-050	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-051	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-052	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-053	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-054	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-055	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-056	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-057	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-058	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-059	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-060	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-061	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-062	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-063	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-064	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-065	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-066	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-067	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-068	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-069	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-070	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-071	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-072	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-073	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-074	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-075	tech_dev	term-qwen	qwen	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Qwen ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-076	tech_dev	term-hf	hugging_face	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Hugging Face ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-077	tech_dev	term-lora	lora	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün LoRA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-078	tech_dev	term-unsloth	unsloth	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün Unsloth ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-079	tech_dev	term-pytorch	pytorch	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün PyTorch ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-dev-080	tech_dev	term-cuda	cuda	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	Bugün CUDA ile Türkçe bir model eğitimi hakkında konuşuyoruz.	ile	false
+read-frozen-001	tech_test_frozen			Bugün ekip toplantısı saat üçte başlayacak.	Bugün ekip toplantısı saat üçte başlayacak.		true
+read-frozen-002	tech_test_frozen			Bugün ekip toplantısı saat üçte başlayacak.	Bugün ekip toplantısı saat üçte başlayacak.		true
+read-frozen-003	tech_test_frozen			Bugün ekip toplantısı saat üçte başlayacak.	Bugün ekip toplantısı saat üçte başlayacak.		true
+read-frozen-004	tech_test_frozen			Bugün ekip toplantısı saat üçte başlayacak.	Bugün ekip toplantısı saat üçte başlayacak.		true
+read-frozen-005	tech_test_frozen			Bugün ekip toplantısı saat üçte başlayacak.	Bugün ekip toplantısı saat üçte başlayacak.		true
+read-frozen-006	tech_test_frozen			Bugün ekip toplantısı saat üçte başlayacak.	Bugün ekip toplantısı saat üçte başlayacak.		true
+read-frozen-007	tech_test_frozen			Bugün ekip toplantısı saat üçte başlayacak.	Bugün ekip toplantısı saat üçte başlayacak.		true
+read-frozen-008	tech_test_frozen			Bugün ekip toplantısı saat üçte başlayacak.	Bugün ekip toplantısı saat üçte başlayacak.		true
+read-frozen-009	tech_test_frozen	term-transformer	transformer	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-010	tech_test_frozen	term-whisper	whisper	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-011	tech_test_frozen	term-python	python	Bu kayıtta Python teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Python teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-012	tech_test_frozen	term-docker	docker	Bu kayıtta Docker teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Docker teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-013	tech_test_frozen	term-kubernetes	kubernetes	Bu kayıtta Kubernetes teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Kubernetes teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-014	tech_test_frozen	term-vllm	vllm	Bu kayıtta vLLM teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta vLLM teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-015	tech_test_frozen	term-transformer	transformer	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-016	tech_test_frozen	term-whisper	whisper	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-017	tech_test_frozen	term-python	python	Bu kayıtta Python teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Python teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-018	tech_test_frozen	term-docker	docker	Bu kayıtta Docker teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Docker teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-019	tech_test_frozen	term-kubernetes	kubernetes	Bu kayıtta Kubernetes teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Kubernetes teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-020	tech_test_frozen	term-vllm	vllm	Bu kayıtta vLLM teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta vLLM teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-021	tech_test_frozen	term-transformer	transformer	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-022	tech_test_frozen	term-whisper	whisper	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-023	tech_test_frozen	term-python	python	Bu kayıtta Python teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Python teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-024	tech_test_frozen	term-docker	docker	Bu kayıtta Docker teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Docker teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-025	tech_test_frozen	term-kubernetes	kubernetes	Bu kayıtta Kubernetes teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Kubernetes teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-026	tech_test_frozen	term-vllm	vllm	Bu kayıtta vLLM teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta vLLM teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-027	tech_test_frozen	term-transformer	transformer	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-028	tech_test_frozen	term-whisper	whisper	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-029	tech_test_frozen	term-python	python	Bu kayıtta Python teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Python teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-030	tech_test_frozen	term-docker	docker	Bu kayıtta Docker teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Docker teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-031	tech_test_frozen	term-kubernetes	kubernetes	Bu kayıtta Kubernetes teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Kubernetes teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-032	tech_test_frozen	term-vllm	vllm	Bu kayıtta vLLM teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta vLLM teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-033	tech_test_frozen	term-transformer	transformer	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-034	tech_test_frozen	term-whisper	whisper	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-035	tech_test_frozen	term-python	python	Bu kayıtta Python teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Python teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-036	tech_test_frozen	term-docker	docker	Bu kayıtta Docker teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Docker teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-037	tech_test_frozen	term-kubernetes	kubernetes	Bu kayıtta Kubernetes teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Kubernetes teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-038	tech_test_frozen	term-vllm	vllm	Bu kayıtta vLLM teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta vLLM teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-039	tech_test_frozen	term-transformer	transformer	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Transformer teriminin Türkçe telaffuzu geçiyor.		false
+read-frozen-040	tech_test_frozen	term-whisper	whisper	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.	Bu kayıtta Whisper teriminin Türkçe telaffuzu geçiyor.		false
+

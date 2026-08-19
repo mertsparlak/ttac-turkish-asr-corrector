@@ -1,0 +1,14 @@
+term_id	term_family	canonical_term	aliases	category
+term-pytorch	pytorch	PyTorch	py torch;pay torç	technical_term
+term-cuda	cuda	CUDA	kuda	technical_term
+term-qwen	qwen	Qwen	kuven	technical_term
+term-hf	hugging_face	Hugging Face	hacing feyst	technical_term
+term-lora	lora	LoRA	lora	technical_term
+term-unsloth	unsloth	Unsloth	anslot	technical_term
+term-transformer	transformer	Transformer	transformır	technical_term
+term-whisper	whisper	Whisper	vispır	technical_term
+term-python	python	Python	payton	technical_term
+term-docker	docker	Docker	dokır	technical_term
+term-kubernetes	kubernetes	Kubernetes	kubırnetis	technical_term
+term-vllm	vllm	vLLM	vi el el em	technical_term
+

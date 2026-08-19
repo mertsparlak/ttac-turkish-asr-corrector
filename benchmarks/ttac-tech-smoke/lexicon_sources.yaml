@@ -1,0 +1,7 @@
+version: 1
+allowlist:
+  - source_id: manual-reviewed
+    source_uri: private-source-register
+    purpose: technical-term-normalization
+    frozen_before_authoring: true
+

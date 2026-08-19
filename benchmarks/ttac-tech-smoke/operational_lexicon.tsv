@@ -1,0 +1,14 @@
+canonical_term	aliases	source_id	source_uri	frozen_before_authoring
+PyTorch	py torch;pay torç	manual-reviewed	private-source-register	true
+CUDA	kuda	manual-reviewed	private-source-register	true
+Qwen	kuven	manual-reviewed	private-source-register	true
+Hugging Face	hacing feyst	manual-reviewed	private-source-register	true
+LoRA	lora	manual-reviewed	private-source-register	true
+Unsloth	anslot	manual-reviewed	private-source-register	true
+Transformer	transformır	manual-reviewed	private-source-register	true
+Whisper	vispır	manual-reviewed	private-source-register	true
+Python	payton	manual-reviewed	private-source-register	true
+Docker	dokır	manual-reviewed	private-source-register	true
+Kubernetes	kubırnetis	manual-reviewed	private-source-register	true
+vLLM	vi el el em	manual-reviewed	private-source-register	true
+
