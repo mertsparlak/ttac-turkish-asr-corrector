@@ -1,0 +1,3 @@
+client_id	path	sentence	locale	split
+fixture-client-a	clip-a.wav	Merhaba dünya	tr	train
+fixture-client-b	clip-b.wav	İyi günler	tr	train
