@@ -1,0 +1,5 @@
+[
+  {"raw": " IĞDIR   İSTANBUL I ", "normalized": "ığdır istanbul ı"},
+  {"raw": "PyTorch’tA,  Hugging Face!", "normalized": "pytorch'ta, hugging face!"},
+  {"raw": "QWEN3.5-v2  1,25", "normalized": "qwen3.5-v2 1,25"}
+]
